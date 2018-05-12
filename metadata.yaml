@@ -1,0 +1,29 @@
+_repo: In-Clive-s-Command--13-A-Story-of-the-Fight-for-India_16382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_issued: '2005-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Clive, Robert Clive, Baron, 1725-1774 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+title: 'In Clive''s Command: A Story of the Fight for India'
+url: http://www.gutenberg.org/ebooks/16382
